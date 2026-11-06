@@ -1,0 +1,6 @@
+Descripción: Escribe un programa en el que el usuario deba adivinar un
+número secreto entre 1 y 100 (generado por el programa). Solo tiene 5
+intentos para adivinarlo. Después de cada intento, el programa debe decir si
+el número secreto es mayor o menor que el intento. Si el usuario adivina el
+número antes de que se terminen los intentos, se le felicita. Si no, se
+muestra el número secreto.

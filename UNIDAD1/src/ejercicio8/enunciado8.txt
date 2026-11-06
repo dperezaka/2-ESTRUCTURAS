@@ -1,0 +1,1 @@
+Descripción: Crear un programa que solicite un número al usuario y calcule la suma de todos los números desde 1 hasta ese número utilizando un bucle

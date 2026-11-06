@@ -1,0 +1,1 @@
+Descripción: Crear un programa que solicite tres números al usuario, calcule su promedio y lo muestre.

@@ -1,0 +1,5 @@
+Enunciado: Escribe un programa que solicite al usuario tres números
+correspondientes a los lados de un triángulo. El programa debe determinar
+si el triángulo es equilátero (todos los lados iguales), isósceles (dos lados
+iguales) o escaleno (todos los lados diferentes). Usa condicionales para
+evaluar estas características.

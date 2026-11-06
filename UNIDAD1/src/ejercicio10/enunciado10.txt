@@ -1,0 +1,2 @@
+Descripción: Crear un programa que solicite un número al usuario y muestre todos los números primos entre 1 y ese número utilizando un bucle Para.
+Incluye la verificación de si un número es primo o no.

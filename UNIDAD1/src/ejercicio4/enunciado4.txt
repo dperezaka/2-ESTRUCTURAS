@@ -1,0 +1,1 @@
+Descripción: Crear un programa que solicite al usuario dos números y los compare, mostrando cuál es mayor o si son iguales.

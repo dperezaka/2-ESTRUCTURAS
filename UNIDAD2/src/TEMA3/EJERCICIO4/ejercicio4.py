@@ -1,0 +1,6 @@
+"""
+Descripción: Escribe un programa que pida al usuario un número n y
+muestre la tabla de multiplicar de ese número del 1 al 10. Si el usuario
+introduce un número fuera del rango 1 a 10, se le debe pedir que vuelva a
+introducir un número válido
+"""

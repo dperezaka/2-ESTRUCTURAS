@@ -1,0 +1,1 @@
+Descripción: Crear un programa que utilice un bucle Para para contar y mostrar los números pares entre 1 y 20. Al final, debe mostrar la suma total de esos números

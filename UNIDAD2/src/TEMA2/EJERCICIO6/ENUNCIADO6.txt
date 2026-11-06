@@ -1,0 +1,5 @@
+Enunciado: Escribe un programa que calcule el impuesto sobre los ingresos
+anuales de una persona. Pide al usuario que introduzca su ingreso anual. Si
+el ingreso es menor o igual a 10,000, el impuesto es del 10%. Si es menor o
+igual a 30,000, el impuesto es del 20%. Si es mayor a 30,000, el impuesto es
+del 30%. Usa condicionales para calcular el impuesto
