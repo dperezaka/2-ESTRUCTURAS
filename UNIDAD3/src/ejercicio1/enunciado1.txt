@@ -1,0 +1,2 @@
+Ejercicio 1: Mejora del juego de adivinanza
+Modifica el juego de adivinanza del número secreto para que el jugador pueda elegir el rango de números en los que se generará el número secreto. Por ejemplo, el jugador debería poder elegir que el número esté entre 1 y 50, o entre 100 y 200. La opción debe ser configurable desde el menú

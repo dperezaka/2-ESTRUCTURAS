@@ -1,0 +1,3 @@
+Ejercicio 5: Función que muestra los números perfectos  
+Escribe una función llamada mostrar_numeros_perfectos que reciba un número entero como parámetro y 
+muestre todos los números perfectos entre 1 y el número dado. Un número es perfecto si es igual a la suma de sus divisores propios. 

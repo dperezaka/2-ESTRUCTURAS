@@ -1,0 +1,2 @@
+Ejercicio 2: Función para verificar números primos
+Escribe una función llamada es_primo que reciba un número entero y devuelva True si el número es primo o False si no lo es. Luego, usa esta función en un programa que permita al usuario introducir un número y verificar si es primo.

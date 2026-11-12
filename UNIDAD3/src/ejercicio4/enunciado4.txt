@@ -1,0 +1,4 @@
+Ejercicio 4: Función que recibe dos listas y devuelve las combinaciones
+Escribe una función llamada combinar_listas que reciba dos listas como parámetros y 
+devuelva una nueva lista con todas las combinaciones posibles entre los elementos de ambas listas. 
+Cada combinación debe ser una lista con dos elementos, uno de cada lista.
