@@ -8,3 +8,17 @@ El programa debe seguir pidiendo dinero mientras la cantidad ahorrada sea menor 
 Cada vez que ingreses dinero, debe decirte cuánto llevas acumulado.
 Al superar o llegar a 100, el programa se detiene y te felicita.
 """
+
+cantidad = 0
+print(f"Hay {cantidad} dinero")
+while True:
+    try:
+        numero = float(input("Introduce dinero:\n>"))
+    except ValueError:
+        print("Debe ser un float")  
+    cantidad = cantidad + numero
+    print(f"Hay {cantidad:.2f} dinero")
+    if cantidad > 100:
+        print(f"Felicidades tienes {cantidad:.2f}")
+        break
+      

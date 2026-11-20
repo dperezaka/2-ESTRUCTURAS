@@ -9,3 +9,14 @@ Si encuentras un número negativo, ignóralo y pasa al siguiente (usa continue).
 Si encuentras el número 0, detén el programa inmediatamente y avisa de que se encontró un cero (usa break).
 Si el número es positivo, imprímelo.
 """
+
+numeros = [12, 5, 8, -3, 15, 0, 20, 7]
+
+for n in numeros:
+    if n < 0:
+        continue
+    elif n == 0:
+        print("Encuentromun 0 y salgo")
+        break
+    else:
+        print(n)
