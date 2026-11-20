@@ -4,12 +4,13 @@ El documento original incluye el juego **«Adivina el número secreto»** constr
 
 La propuesta mantiene el juego de un jugador y permite elegir el intervalo de números. Se divide en:
 
-| Archivo | Responsabilidad |
-| :--- | :--- |
-| `logica.py` | Generar el secreto y comprobar si un intento es mayor, menor o correcto. |
-| `entrada.py` | Pedir números enteros y validar las entradas. |
-| `principal.py` | Mostrar el menú, coordinar la partida y dar feedback al usuario. |
-| `pruebas_logica.py` | Comprobar la lógica automáticamente con `unittest`. |
+| Archivo             | Responsabilidad                                                          |
+| :------------------ | :----------------------------------------------------------------------- |
+| `logica.py`         | Generar el secreto y comprobar si un intento es mayor, menor o correcto. |
+| `entrada.py`        | Pedir números enteros y validar las entradas.                            |
+| `principal.py`      | Mostrar el menú, coordinar la partida y dar feedback al usuario.         |
+| `pruebas_logica.py` | Comprobar la lógica automáticamente con `unittest`.                      |
+|                     |                                                                          |
 
 ---
 
