@@ -7,3 +7,8 @@ print(total)
 # Resultado esperado: 338350
 Nota: sum() , min() , max() y list() aceptan generadores directamente
 """
+
+
+
+total = sum(map(lambda x: x ** 2, range(1,101)))
+print(total)
